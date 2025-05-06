@@ -3,6 +3,7 @@ Saya Klara Ollivviera Augustine Gunawan dengan NIM 2306205 mengerjakan soal Tuga
 
 # Desain Program
 <img width="372" alt="Screenshot 2025-05-06 at 15 20 36" src="https://github.com/user-attachments/assets/c1a055f0-da3c-4710-b0a6-8c6ebe86eee1" />
+
 Program ini merupakan implementasi dari pola Model-View-Controller (MVC), yang digunakan untuk mengelola data mahasiswa (student) dan universitas (university). Program ini memisahkan logika aplikasi, tampilan pengguna, dan data yang disimpan dalam basis data sehingga mudah dikelola dan dipelihara.
 
 ## Fitur Utama:
